@@ -1,5 +1,8 @@
 # XDoG-Python
 Python command-line implementation of XDoG Image filter modeled after [CenalUnal's Matlab implementation](https://github.com/CemalUnal/XDoG-Filter).
+
+Relies on Numpy, PIL and Scipy.
+
 Run with commands:
 ```
 -i or --input : input image file path
